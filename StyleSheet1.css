@@ -1,0 +1,47 @@
+﻿.a1 {
+    color: #632989;
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+}
+
+.a2 {
+    color: #632989;
+    font-family: Arial, sans-serif;
+}
+
+.a3 {
+    color: orangered;
+}
+
+.a4 {
+    color: black;
+}
+
+.archModalHeader {
+    background-color: #632989;
+    color: white;
+}
+
+.navbar-back {
+    color: white;
+    background-color: #632989;
+}
+
+.body1 {
+    background-image: url(TheGatewayArchSaintLouisMissouri.jpg);
+    background-size:cover;
+    background-repeat:no-repeat;
+}
+
+.body2 {
+    background-color: white;
+}
+
+.btn-primary1 {
+    color: #fff;
+    background-color: orangered;
+}
+
+.font-format {
+    text-align:justify;
+}
